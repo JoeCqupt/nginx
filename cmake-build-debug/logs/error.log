@@ -1,0 +1,10 @@
+2024/02/01 21:41:14 [emerg] 70133#0: no "events" section in configuration
+2024/02/01 21:42:45 [emerg] 70402#0: open() "./conf/mime.types" failed (2: No such file or directory) in ./conf/nginx.conf:18
+2024/02/01 21:43:06 [emerg] 70449#0: bind() to 0.0.0.0:80 failed (48: Address already in use)
+2024/02/01 21:43:06 [emerg] 70449#0: bind() to 0.0.0.0:80 failed (48: Address already in use)
+2024/02/01 21:43:06 [emerg] 70449#0: bind() to 0.0.0.0:80 failed (48: Address already in use)
+2024/02/01 21:43:06 [emerg] 70449#0: bind() to 0.0.0.0:80 failed (48: Address already in use)
+2024/02/01 21:43:06 [emerg] 70449#0: bind() to 0.0.0.0:80 failed (48: Address already in use)
+2024/02/01 21:43:06 [emerg] 70449#0: still could not bind()
+2024/02/01 21:44:12 [error] 70612#0: *1 "./html/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2024/02/01 21:44:12 [error] 70612#0: *1 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"

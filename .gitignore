@@ -1,0 +1,6 @@
+.idea/
+cmake-build-debug/*
+!cmake-build-debug/conf/
+!cmake-build-debug/html/
+!cmake-build-debug/logs/
+
